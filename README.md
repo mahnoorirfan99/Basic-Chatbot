@@ -2,4 +2,6 @@
 
 This is a simple rule based chatbot with predefined responses.
 
-Currently working on it to enhance its functionality.
+I have used Streamlit to add Graphical User Interface for easy building of interactive webapps.
+
+I have added different emojis for natural looking responses.
